@@ -1,9 +1,7 @@
 ### Kuntay UI Library
 
-You can use the [editor on GitHub](https://github.com/githubuserlolz40/Kuntay-UI-Library/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+### Info
+The Kuntay UI Library is named after Orhan Kuntay, because it can be used to make diverse exploits. All credits for the UI Library go to SKS/githubuserlolz40.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
